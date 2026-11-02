@@ -1,6 +1,8 @@
 # final_flutter
 
-A new Flutter project.
+A Flutter food delivery app UI with onboarding, login, menu, and item details screens.
+
+This is a UI prototype built for learning, with no backend yet.
 
 ## Getting Started
 
